@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.9" tiledversion="1.9.2" orientation="orthogonal" renderorder="right-down" width="240" height="13" tilewidth="16" tileheight="16" infinite="0" nextlayerid="4" nextobjectid="9">
+ <tileset firstgid="1" source="../../../ourFinalGame/nw.tsx"/>
+ <tileset firstgid="45217" source="../../../ourFinalGame/tileses.tsx"/>
+ <layer id="1" name="background" width="240" height="13">
+  <data encoding="base64" compression="zlib">
+   eJztzjENADAIADA8YG4a+XCIjCXQo38rIwoAAAAAAAAAAADgsNf/DwCw3QCiYABE
+  </data>
+ </layer>
+ <layer id="2" name="graphics" width="240" height="13">
+  <data encoding="base64" compression="zlib">
+   eJzt1bENg0AMBVAX7Ei2YYPsEEURBc2xHHVAJxQg15viWXpy4+I3X166iAUAAAAAAAAAgNsZS1t2LuDnU876OeKxeg1t2Xkz7JOdA65iro4dncpZ/6wm/xdu5V3+bV097r3HrVsgzxeNsD57
+  </data>
+ </layer>
+ <objectgroup id="3" name="ground">
+  <object id="8" x="0.5" y="173.5">
+   <polyline points="0,0 60.5,1.5 96,-13.5 189,-12.5 249.5,2 535.5,-1"/>
+  </object>
+ </objectgroup>
+</map>

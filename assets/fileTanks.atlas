@@ -1,0 +1,27 @@
+
+tankfile.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+p1
+  rotate: false
+  xy: 1162, 293
+  size: 578, 1150
+  orig: 578, 1150
+  offset: 0, 0
+  index: -1
+p2
+  rotate: false
+  xy: 2, 2
+  size: 578, 1441
+  orig: 578, 1441
+  offset: 0, 0
+  index: -1
+p3
+  rotate: false
+  xy: 582, 292
+  size: 578, 1151
+  orig: 578, 1151
+  offset: 0, 0
+  index: -1
